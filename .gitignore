@@ -1,5 +1,4 @@
 *.iml
-.gradle
 /local.properties
 /.idea/caches
 /.idea/libraries
@@ -20,3 +19,4 @@
 /log.txt
 /app/debug
 /app/agconnect-services.json
+/.gradle
